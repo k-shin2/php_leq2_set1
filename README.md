@@ -1,1 +1,2 @@
-# php_req2_set1
+# php_leq2_set1
+PHPの学習。
